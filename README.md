@@ -1,27 +1,26 @@
 <html>
 <head>
-      
 </head>
 <body>
       <div align = "center">
-ww^^^^ww<br>
-w              w<br>
-j~                      "w<br>
-jP'                           ~m<br>
-#'                               Q,<br>
-@                                  4,<br>
-#                __                #<br>
-f             ,w~~  "~,              A<br>
-0              @        #,             M<br>
-0              A        d'             M<br>
-![             jm    _mE              V<br>
-#            g~  M  M' "h            &'<br>
-`b          #'   M  M    4,         j"<br>
-"h,      jP     M  M     \y       g~<br>
-*y    j~      M  M      "b    jP'<br>
-m_4'       M  M        #_w@'<br>
-"w     M  M     w~<br>
-~~^wwM  Mww**~~<br>
+            <b><font color="#cba6f7">            ww^^^^ww            </font></b><br></br>
+            <b><font color="#cba6f7">        w==============w        </font></b><br></br>
+            <b><font color="#cba6f7">      j~======================"w      </font></b><br></br>
+            <b><font color="#cba6f7">    jP'===========================~m    </font></b><br></br>
+            <b><font color="#cba6f7">   #'===============================Q,  </font></b><br></br>
+            <b><font color="#cba6f7"> @==================================4, </font></b><br></br>
+            <b><font color="#cba6f7"> #==================================# </font></b><br></br>
+            <b><font color="#cba6f7">f==============,w~~  "~,==============A</font></b><br></br>
+            <b><font color="#cba6f7">0==============@        #,==============M</font></b><br></br>
+            <b><font color="#cba6f7">0=============A        d'=============M</font></b><br></br>
+            <b><font color="#cba6f7">![=============jm    _mE=============V</font></b><br></br>
+            <b><font color="#cba6f7"> #============g~==M==M'="h============&'</font></b><br></br>
+            <b><font color="#cba6f7"> `b==========#'===M==M====4,==========j" </font></b><br></br>
+            <b><font color="#cba6f7">  "h,======jP=====M==M=====\y======g~  </font></b><br></br>
+            <b><font color="#cba6f7">    *y====j~======M==M======"b====jP'   </font></b><br></br>
+            <b><font color="#cba6f7">      m_4'=======M==M=======#_w@'     </font></b><br></br>
+            <b><font color="#cba6f7">        "w=====M==M=====w~        </font></b><br></br>
+            <b><font color="#cba6f7">            ~~^wwM==Mww**~~            </font></b><br></br>
       </div>
 </body>
 </html>
