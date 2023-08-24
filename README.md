@@ -3,7 +3,7 @@
 </head>
 <body>
       <div align = "center">
-                &#BGGPPPPPPPPGGB#&                
+      <b>      &#BGGPPPPPPPPGGB#&                
             &#GGGGB#&&&    &&&#BGGGG#&            
           #GPG#&                  &#GPG#          
         #PPB&                        &BPP#        
@@ -31,7 +31,7 @@ BP&               BPGPGB  BGPGPB               &PB
         #GP5B         GP  PG         B5PG#        
           #GPG#&      GP  PG      &#GPG#          
             &#GGGGB#&&GP  PG&&#BGGGG#&            
-                &#BGGPPP  PPPGGB#&                          
+                &#BGGPPP  PPPGGB#&                    </b>
       </div>
 </body>
 </html>
