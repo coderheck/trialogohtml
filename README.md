@@ -1,8 +1,37 @@
+<!DOCTYPE html>
 <html>
-<head>
-</head>
-<body>
-      <div align = "center">
+    <head>
+        <!-- character set -->
+        <meta charset="utf-8">
+        
+        <!-- web title -->
+        <title>tria os logo</title>
+        
+        <!-- for rich embeds in other websites -->
+        <meta content="tria os logo!!!!" property="og:title" />
+        <meta content="tria os logo ascii art" property="og:description" />
+        <meta content="https://coderheck.github.io/trialogohtml" property="og:url" />
+        <meta content="https://coderheck.github.io/assets/TRIAosLogoGradient.png" property="og:image" />
+        <meta content="#FCED72" data-react-helmet="true" name="theme-color" />
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" type="type/x-icon" href="/assets/nice avatar.png">
+    </head>
+    <style>
+        #grad1 {
+          width: 450px;
+          height: 550px;
+          background-color: red; /* For browsers that do not support gradients */
+          background-image: linear-gradient(to right, rgb(255, 125, 42), rgb(244, 127, 255));
+        }
+        div {
+        font-family: Consolas
+        }
+    </style>
+    <body>
+      <body style = "background-image: linear-gradient(to right)">
+      <div id="grad1" align = "center" style = "color: rgb(255, 255, 255);">
                 &#BGGPPPPPPPPGGB#&                <br>
             &#GGGGB#&&&====&&&#BGGGG#&            <br>
           #GPG#&==================&#GPG#          <br>
@@ -31,7 +60,8 @@ BP&===============BPGPGB==BGPGPB===============&PB <br>
         #GP5B=========GP==PG=========B5PG#        <br>
           #GPG#&======GP==PG======&#GPG#          <br>
             &#GGGGB#&&GP==PG&&#BGGGG#&            <br>
-                &#BGGPPP==PPPGGB#&                <br>                  
+                &#BGGPPP==PPPGGB#&                    <br>
       </div>
 </body>
+    </body>
 </html>
